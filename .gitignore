@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+
+# Too large for GitHub (100 MB file limit)
+arxiv-metadata-oai-snapshot.json
+data/papers.csv
+
+# Jupyter
+.ipynb_checkpoints/

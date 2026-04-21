@@ -1,0 +1,399 @@
+period,country,subfield,paper_count
+2001-2010,Argentina,Astrophysics,46
+2001-2010,Argentina,Computer Science,5
+2001-2010,Argentina,Condensed Matter,67
+2001-2010,Argentina,High Energy Physics,11
+2001-2010,Argentina,Mathematics,14
+2001-2010,Argentina,Physics,6
+2001-2010,Australia,Astrophysics,599
+2001-2010,Australia,Computer Science,278
+2001-2010,Australia,Condensed Matter,686
+2001-2010,Australia,High Energy Physics,679
+2001-2010,Australia,Mathematics,704
+2001-2010,Australia,Physics,216
+2001-2010,Australia,Statistics,6
+2001-2010,Austria,Astrophysics,65
+2001-2010,Austria,Computer Science,5
+2001-2010,Austria,Condensed Matter,16
+2001-2010,Austria,High Energy Physics,53
+2001-2010,Austria,Mathematics,3
+2001-2010,Austria,Physics,3
+2001-2010,Brazil,Astrophysics,266
+2001-2010,Brazil,Computer Science,4
+2001-2010,Brazil,Condensed Matter,93
+2001-2010,Brazil,High Energy Physics,65
+2001-2010,Brazil,Mathematics,24
+2001-2010,Brazil,Physics,26
+2001-2010,Canada,Astrophysics,586
+2001-2010,Canada,Computer Science,69
+2001-2010,Canada,Condensed Matter,263
+2001-2010,Canada,High Energy Physics,216
+2001-2010,Canada,Mathematics,87
+2001-2010,Canada,Physics,25
+2001-2010,China,Astrophysics,457
+2001-2010,China,Computer Science,34
+2001-2010,China,Condensed Matter,222
+2001-2010,China,High Energy Physics,296
+2001-2010,China,Mathematics,78
+2001-2010,China,Physics,44
+2001-2010,Egypt,Astrophysics,10
+2001-2010,Egypt,Computer Science,4
+2001-2010,Egypt,High Energy Physics,9
+2001-2010,Egypt,Mathematics,3
+2001-2010,Egypt,Physics,1
+2001-2010,France,Astrophysics,1893
+2001-2010,France,Computer Science,573
+2001-2010,France,Condensed Matter,1302
+2001-2010,France,High Energy Physics,721
+2001-2010,France,Mathematics,744
+2001-2010,France,Physics,162
+2001-2010,France,Statistics,27
+2001-2010,Germany,Astrophysics,2247
+2001-2010,Germany,Computer Science,44
+2001-2010,Germany,Condensed Matter,1032
+2001-2010,Germany,High Energy Physics,1438
+2001-2010,Germany,Mathematics,213
+2001-2010,Germany,Physics,149
+2001-2010,Germany,Statistics,2
+2001-2010,India,Astrophysics,415
+2001-2010,India,Computer Science,77
+2001-2010,India,Condensed Matter,311
+2001-2010,India,High Energy Physics,257
+2001-2010,India,Mathematics,49
+2001-2010,India,Physics,37
+2001-2010,Iran,Astrophysics,268
+2001-2010,Iran,Computer Science,61
+2001-2010,Iran,Condensed Matter,283
+2001-2010,Iran,High Energy Physics,196
+2001-2010,Iran,Mathematics,131
+2001-2010,Iran,Physics,51
+2001-2010,Iran,Statistics,11
+2001-2010,Israel,Astrophysics,391
+2001-2010,Israel,Computer Science,10
+2001-2010,Israel,Condensed Matter,176
+2001-2010,Israel,High Energy Physics,95
+2001-2010,Israel,Mathematics,61
+2001-2010,Israel,Physics,33
+2001-2010,Israel,Statistics,1
+2001-2010,Italy,Astrophysics,2147
+2001-2010,Italy,Computer Science,109
+2001-2010,Italy,Condensed Matter,571
+2001-2010,Italy,High Energy Physics,923
+2001-2010,Italy,Mathematics,274
+2001-2010,Italy,Physics,213
+2001-2010,Italy,Statistics,7
+2001-2010,Japan,Astrophysics,693
+2001-2010,Japan,Computer Science,18
+2001-2010,Japan,Condensed Matter,497
+2001-2010,Japan,High Energy Physics,917
+2001-2010,Japan,Mathematics,87
+2001-2010,Japan,Physics,38
+2001-2010,Mexico,Astrophysics,303
+2001-2010,Mexico,Computer Science,2
+2001-2010,Mexico,Condensed Matter,45
+2001-2010,Mexico,High Energy Physics,137
+2001-2010,Mexico,Mathematics,16
+2001-2010,Mexico,Physics,19
+2001-2010,Netherlands,Astrophysics,547
+2001-2010,Netherlands,Computer Science,39
+2001-2010,Netherlands,Condensed Matter,200
+2001-2010,Netherlands,High Energy Physics,106
+2001-2010,Netherlands,Mathematics,32
+2001-2010,Netherlands,Physics,11
+2001-2010,Poland,Astrophysics,183
+2001-2010,Poland,Computer Science,11
+2001-2010,Poland,Condensed Matter,42
+2001-2010,Poland,High Energy Physics,146
+2001-2010,Poland,Mathematics,21
+2001-2010,Poland,Physics,9
+2001-2010,Russia,Astrophysics,431
+2001-2010,Russia,Computer Science,10
+2001-2010,Russia,Condensed Matter,249
+2001-2010,Russia,High Energy Physics,593
+2001-2010,Russia,Mathematics,131
+2001-2010,Russia,Physics,151
+2001-2010,Saudi Arabia,Astrophysics,1
+2001-2010,Saudi Arabia,Computer Science,5
+2001-2010,Saudi Arabia,Condensed Matter,1
+2001-2010,Saudi Arabia,High Energy Physics,26
+2001-2010,Saudi Arabia,Physics,1
+2001-2010,Singapore,Astrophysics,328
+2001-2010,Singapore,Computer Science,65
+2001-2010,Singapore,Condensed Matter,348
+2001-2010,Singapore,High Energy Physics,309
+2001-2010,Singapore,Mathematics,294
+2001-2010,Singapore,Physics,113
+2001-2010,Singapore,Statistics,1
+2001-2010,South Africa,Astrophysics,96
+2001-2010,South Africa,Computer Science,1
+2001-2010,South Africa,Condensed Matter,2
+2001-2010,South Africa,High Energy Physics,9
+2001-2010,South Africa,Mathematics,3
+2001-2010,South Africa,Physics,1
+2001-2010,South Korea,Astrophysics,213
+2001-2010,South Korea,Computer Science,2
+2001-2010,South Korea,Condensed Matter,76
+2001-2010,South Korea,High Energy Physics,110
+2001-2010,South Korea,Mathematics,13
+2001-2010,South Korea,Physics,8
+2001-2010,Spain,Astrophysics,405
+2001-2010,Spain,Computer Science,10
+2001-2010,Spain,Condensed Matter,210
+2001-2010,Spain,High Energy Physics,204
+2001-2010,Spain,Mathematics,43
+2001-2010,Spain,Physics,20
+2001-2010,Sweden,Astrophysics,144
+2001-2010,Sweden,Computer Science,9
+2001-2010,Sweden,Condensed Matter,82
+2001-2010,Sweden,High Energy Physics,80
+2001-2010,Sweden,Mathematics,22
+2001-2010,Sweden,Physics,48
+2001-2010,Switzerland,Astrophysics,320
+2001-2010,Switzerland,Computer Science,9
+2001-2010,Switzerland,Condensed Matter,134
+2001-2010,Switzerland,High Energy Physics,718
+2001-2010,Switzerland,Mathematics,51
+2001-2010,Switzerland,Physics,55
+2001-2010,Taiwan,Astrophysics,44
+2001-2010,Taiwan,Computer Science,5
+2001-2010,Taiwan,Condensed Matter,37
+2001-2010,Taiwan,High Energy Physics,70
+2001-2010,Taiwan,Mathematics,7
+2001-2010,Taiwan,Physics,7
+2001-2010,Turkey,Astrophysics,47
+2001-2010,Turkey,Computer Science,5
+2001-2010,Turkey,Condensed Matter,25
+2001-2010,Turkey,High Energy Physics,91
+2001-2010,Turkey,Mathematics,40
+2001-2010,Turkey,Physics,6
+2001-2010,United Kingdom,Astrophysics,3048
+2001-2010,United Kingdom,Computer Science,78
+2001-2010,United Kingdom,Condensed Matter,677
+2001-2010,United Kingdom,High Energy Physics,1440
+2001-2010,United Kingdom,Mathematics,218
+2001-2010,United Kingdom,Physics,228
+2001-2010,United Kingdom,Statistics,1
+2001-2010,United States of America,Astrophysics,12924
+2001-2010,United States of America,Computer Science,618
+2001-2010,United States of America,Condensed Matter,3615
+2001-2010,United States of America,High Energy Physics,4408
+2001-2010,United States of America,Mathematics,1950
+2001-2010,United States of America,Physics,932
+2001-2010,United States of America,Statistics,26
+2011-2025,Argentina,Astrophysics,34
+2011-2025,Argentina,Computer Science,16
+2011-2025,Argentina,Condensed Matter,18
+2011-2025,Argentina,High Energy Physics,15
+2011-2025,Argentina,Mathematics,7
+2011-2025,Argentina,Physics,8
+2011-2025,Australia,Astrophysics,3798
+2011-2025,Australia,Computer Science,10376
+2011-2025,Australia,Condensed Matter,3841
+2011-2025,Australia,Economics,154
+2011-2025,Australia,High Energy Physics,1929
+2011-2025,Australia,Mathematics,6005
+2011-2025,Australia,Physics,2778
+2011-2025,Australia,Statistics,692
+2011-2025,Austria,Astrophysics,46
+2011-2025,Austria,Computer Science,82
+2011-2025,Austria,Condensed Matter,13
+2011-2025,Austria,High Energy Physics,25
+2011-2025,Austria,Mathematics,28
+2011-2025,Austria,Physics,19
+2011-2025,Austria,Statistics,2
+2011-2025,Brazil,Astrophysics,213
+2011-2025,Brazil,Computer Science,166
+2011-2025,Brazil,Condensed Matter,85
+2011-2025,Brazil,High Energy Physics,57
+2011-2025,Brazil,Mathematics,87
+2011-2025,Brazil,Physics,49
+2011-2025,Brazil,Statistics,1
+2011-2025,Canada,Astrophysics,661
+2011-2025,Canada,Computer Science,298
+2011-2025,Canada,Condensed Matter,259
+2011-2025,Canada,Economics,3
+2011-2025,Canada,High Energy Physics,113
+2011-2025,Canada,Mathematics,73
+2011-2025,Canada,Physics,145
+2011-2025,Canada,Statistics,21
+2011-2025,China,Astrophysics,1244
+2011-2025,China,Computer Science,2153
+2011-2025,China,Condensed Matter,673
+2011-2025,China,Economics,47
+2011-2025,China,High Energy Physics,393
+2011-2025,China,Mathematics,1083
+2011-2025,China,Physics,613
+2011-2025,China,Statistics,177
+2011-2025,Egypt,Astrophysics,14
+2011-2025,Egypt,Computer Science,60
+2011-2025,Egypt,Condensed Matter,17
+2011-2025,Egypt,Economics,1
+2011-2025,Egypt,High Energy Physics,54
+2011-2025,Egypt,Mathematics,23
+2011-2025,Egypt,Physics,22
+2011-2025,Egypt,Statistics,1
+2011-2025,France,Astrophysics,4457
+2011-2025,France,Computer Science,6352
+2011-2025,France,Condensed Matter,2864
+2011-2025,France,Economics,94
+2011-2025,France,High Energy Physics,1958
+2011-2025,France,Mathematics,4693
+2011-2025,France,Physics,2258
+2011-2025,France,Statistics,565
+2011-2025,Germany,Astrophysics,3085
+2011-2025,Germany,Computer Science,1152
+2011-2025,Germany,Condensed Matter,942
+2011-2025,Germany,Economics,11
+2011-2025,Germany,High Energy Physics,830
+2011-2025,Germany,Mathematics,554
+2011-2025,Germany,Physics,740
+2011-2025,Germany,Statistics,103
+2011-2025,India,Astrophysics,659
+2011-2025,India,Computer Science,266
+2011-2025,India,Condensed Matter,157
+2011-2025,India,Economics,4
+2011-2025,India,High Energy Physics,156
+2011-2025,India,Mathematics,156
+2011-2025,India,Physics,104
+2011-2025,India,Statistics,15
+2011-2025,Iran,Astrophysics,1528
+2011-2025,Iran,Computer Science,4038
+2011-2025,Iran,Condensed Matter,820
+2011-2025,Iran,Economics,33
+2011-2025,Iran,High Energy Physics,516
+2011-2025,Iran,Mathematics,1398
+2011-2025,Iran,Physics,609
+2011-2025,Iran,Statistics,290
+2011-2025,Israel,Astrophysics,634
+2011-2025,Israel,Computer Science,236
+2011-2025,Israel,Condensed Matter,117
+2011-2025,Israel,Economics,3
+2011-2025,Israel,High Energy Physics,73
+2011-2025,Israel,Mathematics,198
+2011-2025,Israel,Physics,124
+2011-2025,Israel,Statistics,16
+2011-2025,Italy,Astrophysics,3185
+2011-2025,Italy,Computer Science,2493
+2011-2025,Italy,Condensed Matter,1186
+2011-2025,Italy,Economics,32
+2011-2025,Italy,High Energy Physics,881
+2011-2025,Italy,Mathematics,1412
+2011-2025,Italy,Physics,1178
+2011-2025,Italy,Statistics,176
+2011-2025,Japan,Astrophysics,745
+2011-2025,Japan,Computer Science,432
+2011-2025,Japan,Condensed Matter,283
+2011-2025,Japan,Economics,1
+2011-2025,Japan,High Energy Physics,580
+2011-2025,Japan,Mathematics,201
+2011-2025,Japan,Physics,176
+2011-2025,Japan,Statistics,32
+2011-2025,Mexico,Astrophysics,184
+2011-2025,Mexico,Computer Science,104
+2011-2025,Mexico,Condensed Matter,78
+2011-2025,Mexico,Economics,1
+2011-2025,Mexico,High Energy Physics,60
+2011-2025,Mexico,Mathematics,46
+2011-2025,Mexico,Physics,37
+2011-2025,Mexico,Statistics,4
+2011-2025,Netherlands,Astrophysics,379
+2011-2025,Netherlands,Computer Science,163
+2011-2025,Netherlands,Condensed Matter,158
+2011-2025,Netherlands,Economics,5
+2011-2025,Netherlands,High Energy Physics,34
+2011-2025,Netherlands,Mathematics,27
+2011-2025,Netherlands,Physics,34
+2011-2025,Netherlands,Statistics,14
+2011-2025,Poland,Astrophysics,102
+2011-2025,Poland,Computer Science,66
+2011-2025,Poland,Condensed Matter,57
+2011-2025,Poland,High Energy Physics,108
+2011-2025,Poland,Mathematics,14
+2011-2025,Poland,Physics,22
+2011-2025,Poland,Statistics,4
+2011-2025,Russia,Astrophysics,322
+2011-2025,Russia,Computer Science,59
+2011-2025,Russia,Condensed Matter,108
+2011-2025,Russia,High Energy Physics,243
+2011-2025,Russia,Mathematics,104
+2011-2025,Russia,Physics,128
+2011-2025,Saudi Arabia,Astrophysics,83
+2011-2025,Saudi Arabia,Computer Science,212
+2011-2025,Saudi Arabia,Condensed Matter,65
+2011-2025,Saudi Arabia,High Energy Physics,47
+2011-2025,Saudi Arabia,Mathematics,20
+2011-2025,Saudi Arabia,Physics,31
+2011-2025,Saudi Arabia,Statistics,4
+2011-2025,Singapore,Astrophysics,1431
+2011-2025,Singapore,Computer Science,3239
+2011-2025,Singapore,Condensed Matter,1248
+2011-2025,Singapore,Economics,31
+2011-2025,Singapore,High Energy Physics,740
+2011-2025,Singapore,Mathematics,2012
+2011-2025,Singapore,Physics,1101
+2011-2025,Singapore,Statistics,224
+2011-2025,South Africa,Astrophysics,81
+2011-2025,South Africa,Computer Science,1
+2011-2025,South Africa,Condensed Matter,1
+2011-2025,South Africa,High Energy Physics,5
+2011-2025,South Africa,Mathematics,1
+2011-2025,South Africa,Statistics,2
+2011-2025,South Korea,Astrophysics,202
+2011-2025,South Korea,Computer Science,37
+2011-2025,South Korea,Condensed Matter,30
+2011-2025,South Korea,High Energy Physics,44
+2011-2025,South Korea,Mathematics,25
+2011-2025,South Korea,Physics,23
+2011-2025,South Korea,Statistics,3
+2011-2025,Spain,Astrophysics,524
+2011-2025,Spain,Computer Science,125
+2011-2025,Spain,Condensed Matter,119
+2011-2025,Spain,Economics,5
+2011-2025,Spain,High Energy Physics,147
+2011-2025,Spain,Mathematics,96
+2011-2025,Spain,Physics,69
+2011-2025,Spain,Statistics,55
+2011-2025,Sweden,Astrophysics,190
+2011-2025,Sweden,Computer Science,291
+2011-2025,Sweden,Condensed Matter,50
+2011-2025,Sweden,High Energy Physics,45
+2011-2025,Sweden,Mathematics,61
+2011-2025,Sweden,Physics,51
+2011-2025,Sweden,Statistics,8
+2011-2025,Switzerland,Astrophysics,576
+2011-2025,Switzerland,Computer Science,276
+2011-2025,Switzerland,Condensed Matter,82
+2011-2025,Switzerland,Economics,10
+2011-2025,Switzerland,High Energy Physics,295
+2011-2025,Switzerland,Mathematics,59
+2011-2025,Switzerland,Physics,277
+2011-2025,Switzerland,Statistics,7
+2011-2025,Taiwan,Astrophysics,69
+2011-2025,Taiwan,Computer Science,9
+2011-2025,Taiwan,Condensed Matter,8
+2011-2025,Taiwan,High Energy Physics,33
+2011-2025,Taiwan,Mathematics,12
+2011-2025,Taiwan,Physics,3
+2011-2025,Turkey,Astrophysics,54
+2011-2025,Turkey,Computer Science,487
+2011-2025,Turkey,Condensed Matter,93
+2011-2025,Turkey,High Energy Physics,91
+2011-2025,Turkey,Mathematics,154
+2011-2025,Turkey,Physics,51
+2011-2025,Turkey,Statistics,30
+2011-2025,United Kingdom,Astrophysics,3138
+2011-2025,United Kingdom,Computer Science,1232
+2011-2025,United Kingdom,Condensed Matter,492
+2011-2025,United Kingdom,Economics,24
+2011-2025,United Kingdom,High Energy Physics,917
+2011-2025,United Kingdom,Mathematics,460
+2011-2025,United Kingdom,Physics,867
+2011-2025,United Kingdom,Statistics,135
+2011-2025,United States of America,Astrophysics,22180
+2011-2025,United States of America,Computer Science,32170
+2011-2025,United States of America,Condensed Matter,10537
+2011-2025,United States of America,Economics,265
+2011-2025,United States of America,High Energy Physics,8332
+2011-2025,United States of America,Mathematics,10911
+2011-2025,United States of America,Physics,8799
+2011-2025,United States of America,Statistics,1793
